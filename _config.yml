@@ -4,3 +4,5 @@ title: cyalex's Blog
 url: cyalex.github.io
 feed: /atom.xml
 author_info: <a href="cyalex.github.io">cyalex</a>
+
+theme: jekyll-theme-cayman
